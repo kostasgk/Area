@@ -3,7 +3,7 @@ import java.lang.Math.*;
 public class AreaCalculator{
 
     public static void main(String[] args){
-        System.out.println(area(2));
+        System.out.println(ar(2));
 
     }
 
@@ -13,7 +13,7 @@ public class AreaCalculator{
             return "Invalid value";
         } else {
             return ar;
-            System.out.println("Area = " + area);
+            System.out.println("Area = " + ar);
         }
     }
 
