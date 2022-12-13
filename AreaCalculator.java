@@ -13,7 +13,7 @@ public class AreaCalculator{
             return -1;
         } else {
             return ar;
-            System.out.println("Area = " + ar);
+            //System.out.println("Area = " + ar);
         }
         
     }  
